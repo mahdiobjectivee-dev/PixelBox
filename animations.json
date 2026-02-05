@@ -4,7 +4,7 @@
       "id": "wave_smooth",
       "name": "Smooth Wave",
       "speed": 90,
-      "brightness": 10,
+      "brightness": 1,
       "frames": [
         "0000000000000000",
         "0102040810204080",
@@ -28,7 +28,7 @@
       "id": "fade_blink",
       "name": "Fade Blink",
       "speed": 180,
-      "brightness": 8,
+      "brightness": 1,
       "frames": [
         "0000000000000000",
         "1111111111111111",
@@ -46,7 +46,7 @@
       "id": "smile_wave",
       "name": "Smiley Wave",
       "speed": 150,
-      "brightness": 9,
+      "brightness": 1,
       "frames": [
         "3C4200000000423C",
         "3C4200000000423C",
@@ -64,7 +64,7 @@
       "id": "matrix_rain",
       "name": "Matrix Rain",
       "speed": 100,
-      "brightness": 12,
+      "brightness": 1,
       "frames": [
         "8040201008040201",
         "4020100804020108",
@@ -84,7 +84,7 @@
       "id": "heartbeat",
       "name": "Heartbeat",
       "speed": 120,
-      "brightness": 1,
+      "brightness": 0,
       "frames": [
         "0000000000000000",
         "0000182424180000",
@@ -104,7 +104,7 @@
       "id": "spiral_in",
       "name": "Spiral In",
       "speed": 85,
-      "brightness": 11,
+      "brightness": 1,
       "frames": [
         "8000000000000000",
         "C000000000000000",
@@ -131,7 +131,7 @@
       "id": "checkerboard_pulse",
       "name": "Checkerboard Pulse",
       "speed": 150,
-      "brightness": 9,
+      "brightness": 1,
       "frames": [
         "AA55AA55AA55AA55",
         "55AA55AA55AA55AA",
@@ -144,7 +144,7 @@
       "id": "diagonal_sweep",
       "name": "Diagonal Sweep",
       "speed": 80,
-      "brightness": 12,
+      "brightness": 1,
       "frames": [
         "8000000000000000",
         "4080000000000000",
@@ -168,7 +168,7 @@
       "id": "explosion_center",
       "name": "Explosion Center",
       "speed": 100,
-      "brightness": 10,
+      "brightness": 1,
       "frames": [
         "0000000000000000",
         "0000000000000000",
