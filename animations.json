@@ -84,7 +84,7 @@
       "id": "heartbeat",
       "name": "Heartbeat",
       "speed": 120,
-      "brightness": 10,
+      "brightness": 1,
       "frames": [
         "0000000000000000",
         "0000182424180000",
